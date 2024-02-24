@@ -6,9 +6,9 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Front end%20web%20developer;%203%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
-[![Github](https://img.shields.io/github/followers/Camirojasserantoni?label=Follow&style=social)](https://github.com/Camirojasserantoni)
-![](https://visitor-badge.laobi.icu/badge?page_id=Camirojasserantoni.Camirojasserantoni)
-<img src="https://komarev.com/ghpvc/?username=Camirojasserantoni&label=Profile%20views&color=0e75b6&style=flat" alt="Camirojasserantoni" />
+[![Github](https://img.shields.io/github/followers/CamiSerantoni?label=Follow&style=social)](https://github.com/CamiSerantoni)
+![](https://visitor-badge.laobi.icu/badge?page_id=CamiSerantoni.CamiSerantoni)
+<img src="https://komarev.com/ghpvc/?username=CamiSerantoni&label=Profile%20views&color=0e75b6&style=flat" alt="CamiSerantoni" />
 
 Front-End Developer | ReactJS | Redux | JavaScript | Desarrollo Web
 
@@ -46,7 +46,7 @@ If you're interested in collaborating on a project or just want to say hello, fe
 
 
  <h3>🔥My GitHub Profile Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CamiSerantoni&theme=radical&show_icons=true&locale=en&layout=compact" alt="Camirojasserantoniv" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CamiSerantoni&theme=radical&show_icons=true&locale=en" alt="Camirojasserantoni" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CamiSerantoni&theme=radical&show_icons=true&locale=en&layout=compact" alt="CamiSerantoni" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CamiSerantoni&theme=radical&show_icons=true&locale=en" alt="CamiSerantoni" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CamiSerantoni&theme=radical" alt="Camirojasserantoni" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CamiSerantoni&theme=radical" alt="CamiSerantoni" /></p>
