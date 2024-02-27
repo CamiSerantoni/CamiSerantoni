@@ -14,7 +14,7 @@ Front-End Developer | ReactJS | Redux | JavaScript | Desarrollo Web
 
 <h2 align="left">👩‍💻 About me</h2>
 
- 👋 I'm Camila Serantoni Rojas, a passionate Front-End Developer always eager to learn and explore new technologies. With over 3 of industry experience,
+ 👋 I'm Camila Serantoni, a passionate Front-End Developer always eager to learn and explore new technologies. With over 3 of industry experience,
 I've worked on various projects and teams, contributing my skills to develop modern and engaging user interfaces.
 
 - 💬 Ask me about **HTML, CSS, Javascript, Typescript,  ReactJS, Redux **
