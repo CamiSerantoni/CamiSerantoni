@@ -1,24 +1,17 @@
 ### Hey there 👋
-
-<div align="center" align-item="center">
+<div align="center">
 
   # Hi!, I'm Cami 🌸
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FA58AC&center=true&width=435&lines=Front-End+Web+Developer;%20+3%20years%20of%20coding%20experience;Always%20learning%20new%20things)](https://git.io/typing-svg)
  
+  ![](https://visitor-badge.laobi.icu/badge?page_id=CamiSerantoni.CamiSerantoni)
+  <img src="https://komarev.com/ghpvc/?username=CamiSerantoni&label=Profile%20views&color=0e75b6&style=flat" alt="CamiSerantoni" />
+
+  <h2 align="left">👩‍💻 Who am i ? </h2>
+  <p align="left">I'm Camila Serantoni, a seasoned Front-End Developer driven by a passion for cutting-edge tech. With 3+ years in the industry, I've honed my skills crafting sleek user interfaces and collaborating on diverse projects. Currently, I'm fully immersed in Blue Express, where I'm pushing the boundaries of web development to enhance user interactions. As a trained psychologist, I bring a unique perspective, bridging tech and mental well-being for seamless digital experiences. Seeking mastery in NextJS, I'm eager for challenging collaborations that fuel my professional growth. Let's create something amazing together!</p>
+
 </div>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=CamiSerantoni.CamiSerantoni)
-<img src="https://komarev.com/ghpvc/?username=CamiSerantoni&label=Profile%20views&color=0e75b6&style=flat" alt="CamiSerantoni" />
-
-</a> </p>
-
-
-<h2 align="left">👩‍💻 Who am i ? </h2>
-
-  I'm Camila Serantoni, a seasoned Front-End Developer driven by a passion for cutting-edge tech. With 3+ years in the industry, I've honed my skills crafting sleek user interfaces and collaborating on diverse projects.Currently, I'm fully immersed in Blue Express, where I'm pushing the boundaries of web development to enhance user interactions.
-As a trained psychologist, I bring a unique perspective, bridging tech and mental well-being for seamless digital experiences. Seeking mastery in NextJS, 
-I'm eager for challenging collaborations that fuel my professional growth. Let's create something amazing together!
 
 
 ## 🧰 Languages and Tools:
