@@ -8,11 +8,18 @@
   ![](https://visitor-badge.laobi.icu/badge?page_id=CamiSerantoni.CamiSerantoni)
   <img src="https://komarev.com/ghpvc/?username=CamiSerantoni&label=Profile%20views&color=0e75b6&style=flat" alt="CamiSerantoni" />
 
-  <h2 align="left">👩‍💻 Who am i ? </h2>
-  <p align="left">I'm Camila Serantoni, a seasoned Front-End Developer driven by a passion for cutting-edge tech. With 3+ years in the industry, I've honed my skills crafting sleek user interfaces and collaborating on diverse projects. Currently, I'm fully immersed in Blue Express, where I'm pushing the boundaries of web development to enhance user interactions. As a trained psychologist, I bring a unique perspective, bridging tech and mental well-being for seamless digital experiences. Seeking mastery in NextJS, I'm eager for challenging collaborations that fuel my professional growth. Let's create something amazing together!</p>
+
 
 </div>
+<h2 align="center"> 👩‍💻 Who am i ?</h2>
+<p align="center">
+  <samp>a seasoned Front-End Developer driven by a passion for cutting-edge tech. With 3+ years in the industry, I've honed my skills crafting sleek user interfaces and collaborating on diverse projects. Currently, I'm fully immersed in Blue Express, where I'm pushing the boundaries of web development to enhance user interactions. As a trained psychologist, I bring a unique perspective, bridging tech and mental well-being for seamless digital experiences. Seeking mastery in NextJS, I'm eager for challenging collaborations that fuel my professional growth. Let's create something amazing together!
+  </samp>
+  <br> <br>
 
+<p align="center"> (Open for Hiring)</p>
+
+<hr>
 
 ## 🧰 Languages and Tools:
 
@@ -53,12 +60,18 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CamiSerantoni&theme=radical&show_icons=true&locale=en" alt="CamiSerantoni" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CamiSerantoni&theme=radical" alt="CamiSerantoni" /></p>
 
-## 📫 Connect with me
-If you're interested in collaborating on a project or just want to say hello, feel free to reach out to me via LinkedIn  https://www.linkedin.com/in/camilaserantonirojas/ or in my email: camila.serantonir@gmail.com
 
-  <a href="https://www.linkedin.com/in/camilaserantonirojas/">
-  <img align="left" alt="Camila Serantoni" | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
-  </a>
-  <a href="mailto:camila.serantonir@gmail.com">
-  <img align="left" alt="Camila Serantoni"| Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
-  </a>
+
+
+<h2  align="center">📫 Reach me on</h2>
+<p align="center">
+If you're interested in collaborating on a project or just want to say hello, feel free to reach out to me via</p>
+
+ 
+ <p align="center">
+  <a href="https://www.linkedin.com/in/camilaserantonirojas/"><img align="center" alt="Camila Serantoni" | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /> </a>  <a href="mailto:camila.serantonir@gmail.com"><img align="center" alt="Camila Serantoni"| Gmail" width="26px"src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /></a>
+</p>
+    
+
+  
+
