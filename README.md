@@ -11,13 +11,29 @@
 
 
 </div>
-<h2 align="center"> 👩‍💻 Who am i ?</h2>
-<p align="center">
-  <samp>a seasoned Front-End Developer driven by a passion for cutting-edge tech. With 3+ years in the industry, I've honed my skills crafting sleek user interfaces and collaborating on diverse projects. Currently, I'm fully immersed in Blue Express, where I'm pushing the boundaries of web development to enhance user interactions. As a trained psychologist, I bring a unique perspective, bridging tech and mental well-being for seamless digital experiences. Seeking mastery in NextJS, I'm eager for challenging collaborations that fuel my professional growth. Let's create something amazing together!
-  </samp>
-  <br> <br>
 
-<p align="center"> (Open for Hiring)</p>
+
+<h2 align="center">👩‍💻 Who am I?</h2>
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <p align="right">
+      <samp>Hey! I'm Cami, a passionate Front-End Developer with a knack for crafting user-friendly interfaces and pushing the boundaries of web development. With over 3 years in the industry, I bring a blend of technical expertise and a unique perspective from my background in psychology. Currently, I'm diving deep into NextJS to enhance my skills and create seamless digital experiences.</samp>
+    </p>
+   
+  </div>
+
+  <div align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="400">
+  </div> 
+  <p align="right">
+      <samp>I thrive on challenging collaborations that fuel my growth and creativity. Let's connect and create something amazing together!</samp>
+    </p>
+</div>
+
+<p align="center">🌟 Open for Hiring 🌟</p>
+
+
 
 <hr>
 
