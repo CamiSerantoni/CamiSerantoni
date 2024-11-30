@@ -31,7 +31,6 @@
     </p>
 </div>
 
-<p align="center">🌟 Open for Hiring 🌟</p>
 
 
 
