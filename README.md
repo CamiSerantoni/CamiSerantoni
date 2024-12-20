@@ -13,7 +13,7 @@
 </div>
 
 
-<h2 align="center">👩‍💻 Who am I?</h2>
+<h2 align="center"> Who am I👩‍💻?</h2>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1;">
