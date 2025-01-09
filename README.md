@@ -70,22 +70,26 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 🔥 My GitHub Profile Stats:
+## 🔥 My GitHub stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CamiSerantoni&theme=radical&show_icons=true&locale=en&layout=compact" alt="CamiSerantoni" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CamiSerantoni&theme=radical&show_icons=true&locale=en" alt="CamiSerantoni" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CamiSerantoni&theme=radical" alt="CamiSerantoni" /></p>
 
 
 
+## ✍️ Quote
+
+> 💡 Imperfect but improving. ✨
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
 If you're interested in collaborating on a project or just want to say hello, feel free to reach out to me via</p>
 
+
  
  <p align="center">
   <a href="https://www.linkedin.com/in/camilaserantonirojas/"><img align="center" alt="Camila Serantoni" | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" /> </a>  <a href="mailto:camila.serantonir@gmail.com"><img align="center" alt="Camila Serantoni"| Gmail" width="26px"src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" /></a>
 </p>
+
 
 <hr>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
