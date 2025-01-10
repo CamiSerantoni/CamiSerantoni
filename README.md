@@ -77,8 +77,7 @@
 
 
 ## ✍️ Quote
-
-> 💡 Imperfect but improving. ✨
+💡 Imperfect but improving. ✨
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
