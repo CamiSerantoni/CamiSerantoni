@@ -14,22 +14,22 @@
 
 
 <h2 align="center"> Who am I👩‍💻?</h2>
+<p align="right">
+  <samp>
+    Hi there! I'm Cami, a passionate Front-End Developer with a love for crafting intuitive and engaging user interfaces. With over 3 years of experience in the industry, I combine technical expertise with a unique perspective, thanks to my background in psychology. Currently, I’m deepening my knowledge of Next.js to create seamless, high-performance web experiences.
+  </samp>
+</p>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex: 1;">
-    <p align="right">
-      <samp>Hey! I'm Cami, a passionate Front-End Developer with a knack for crafting user-friendly interfaces and pushing the boundaries of web development. With over 3 years in the industry, I bring a blend of technical expertise and a unique perspective from my background in psychology. Currently, I'm diving deep into NextJS to enhance my skills and create seamless digital experiences.</samp>
-    </p>
-   
-  </div>
-
-  <div align="center">
-    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="400">
-  </div> 
-  <p align="right">
-      <samp>I thrive on challenging collaborations that fuel my growth and creativity. Let's connect and create something amazing together!</samp>
-    </p>
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="400" alt="Animated GitHub GIF">
 </div>
+
+<p align="right">
+  <samp>
+    I thrive in collaborative environments that spark creativity and innovation. Let’s connect and build something amazing together!
+  </samp>
+</p>
+
 
 
 
