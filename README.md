@@ -16,7 +16,10 @@
 <h2 align="center"> Who am I👩‍💻?</h2>
 <p align="right">
   <samp>
-    Hi there! I'm Cami, a passionate Front-End Developer with a love for crafting intuitive and engaging user interfaces. With over 3 years of experience in the industry, I combine technical expertise with a unique perspective, thanks to my background in psychology. Currently, I’m deepening my knowledge of Next.js to create seamless, high-performance web experiences.
+  Hi, I’m Camila Serantoni, a front-end developer passionate about crafting digital experiences that not only work, but genuinely connect with people.
+
+
+
   </samp>
 </p>
 
