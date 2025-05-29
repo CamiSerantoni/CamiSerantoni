@@ -17,21 +17,20 @@
 <p align="right">
   <samp>
   Hi, I’m Camila Serantoni, a front-end developer passionate about crafting digital experiences that not only work, but genuinely connect with people.
-
-
+  </samp><p align="right">
+  <samp>
+   Since I started writing my first lines of code, I discovered that web development isn’t just about building interfaces — it’s about building experiences.
+Today, with over 3 years of experience as a Front-End Developer, I’m still passionate about transforming complex ideas into clear, accessible, and efficient digital products.
 
   </samp>
+</p>
+
 </p>
 
 <div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="400" alt="Animated GitHub GIF">
 </div>
 
-<p align="right">
-  <samp>
-    I thrive in collaborative environments that spark creativity and innovation. Let’s connect and build something amazing together!
-  </samp>
-</p>
 
 
 
